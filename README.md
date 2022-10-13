@@ -1,5 +1,5 @@
 ###  Olá! Eu sou Miguel Sabino 👋
- 👀 Estou interessado em  front-end.</br>
+ 👀 Estou interessado em  Full Stack.</br>
  🌱 Atualmente estou estudando  CSS, HTML and Javascript.
 
 <div align="center">
